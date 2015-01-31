@@ -1,0 +1,23 @@
+{
+  "name": "husk-sample",
+  "productName": "HuskSample",
+  "version": "0.1.0",
+  "description": "A Sample Husk App",
+  "main": "./src/main.coffee",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benogle/husk-sample.git"
+  },
+  "bugs": {
+    "url": "https://github.com/benogle/husk-sample/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/benogle/husk-sample/raw/master/LICENSE.md"
+    }
+  ],
+  "dependencies": {
+    "atom-shell-starter": "0.0.1"
+  }
+}
