@@ -18,6 +18,15 @@
     }
   ],
   "dependencies": {
-    "atom-shell-starter": "0.0.1"
+    "atom-shell-starter": "0.0.1",
+    "atomdoc": "1.0.4"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-cli": "~0.1.13",
+    "grunt-coffeelint": "~0.0.13",
+    "grunt-contrib-coffee": "~0.9.0",
+    "husk-cli": "^0.0.0",
+    "rimraf": "~2.2.8"
   }
 }
