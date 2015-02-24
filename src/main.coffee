@@ -1,5 +1,5 @@
 h1 = document.createElement 'h1'
-h1.innerText = 'SAMPLE OK'
+h1.innerText = 'OK SAMPLE'
 
 console.log 'omg'
 
